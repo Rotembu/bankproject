@@ -1,0 +1,2 @@
+c:\users\otom\documents\visual studio 2015\Projects\backbank\backbank\bin\Debug\backbank.exe.config
+C:\github\bankproject\backbank\bin\Debug\backbank.exe.config
